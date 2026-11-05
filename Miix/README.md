@@ -1,6 +1,6 @@
 # Miix Wallpapers
 
-Wallpapers for Lenovo Miix.
+Wallpapers for Lenovo Miix 320-10ICR (Debian i3wm).
 
 [⬅ Back to all wallpapers](../README.md)
 

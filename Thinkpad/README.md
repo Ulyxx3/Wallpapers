@@ -1,6 +1,6 @@
 # Thinkpad Wallpapers
 
-Wallpapers for Thinkpad P15 G2.
+Wallpapers for Thinkpad P15 G2 (Archlinux KDE Plasma 6).
 
 [⬅ Back to all wallpapers](../README.md)
 

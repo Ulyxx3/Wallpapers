@@ -1,13 +1,13 @@
 # Wallpapers 
 
 Wallpapers for all my configurations:
-- **[Miix](Miix/)** : for my Lenovo Miix
-- **[Thinkpad](Thinkpad/)** : for my Thinkpad P15 G2
+- **[Miix](Miix/)** : for my Lenovo Miix 320-10ICR (Debian i3wm)
+- **[Thinkpad](Thinkpad/)** : for my Thinkpad P15 G2 (Arch Linux KDE Plasma 6)
 
 ---
 
 ## [Miix](Miix/)
-> Wallpapers for Lenovo Miix
+> Wallpapers for Lenovo Miix 320-10ICR (Debian i3wm)
 
 ### astronaut-sea-flowers
 [![astronaut-sea-flowers](Miix/astronaut-sea-flowers.png)](Miix/astronaut-sea-flowers.png)
@@ -57,7 +57,7 @@ Wallpapers for all my configurations:
 ---
 
 ## [Thinkpad](Thinkpad/)
-> Wallpapers for Thinkpad P15 G2
+> Wallpapers for Thinkpad P15 G2 (on Arch Linux KDE Plasma 6)
 
 ### wallhaven-3qqdg6
 [![wallhaven-3qqdg6](Thinkpad/wallhaven-3qqdg6.jpg)](Thinkpad/wallhaven-3qqdg6.jpg)
